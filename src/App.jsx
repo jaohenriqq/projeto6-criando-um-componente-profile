@@ -35,7 +35,7 @@ export default function App() {
             <>
             <div className="footer">
                 2025 TechVison. <br />Inovando o futuro da tecnologia.Todos os direitos reservados
-                </div>
+            </div>
 
             </>
         </>
